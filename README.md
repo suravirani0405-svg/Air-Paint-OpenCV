@@ -5,10 +5,11 @@ Air Paint using OpenCV is a real-time drawing app built with Python and OpenCV. 
 ## How to Run
 
 1. Clone the repo:
-   git clone https://github.com/suravirani0405-svg/suravirani0405-svg.git
+   git clone https://github.com/suravirani0405-svg/Air-Paint-OpenCV.git
+
 
 2. Navigate to the folder:
-   cd "air painter"   # or your project folder name
+   cd Air-Paint-OpenCV       # or your project folder name
 
 3. Install dependencies:
    pip install -r requirements.txt
