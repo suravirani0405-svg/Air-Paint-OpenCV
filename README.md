@@ -24,4 +24,3 @@ Air Paint using OpenCV is a real-time drawing app built with Python and OpenCV. 
 - Simple and interactive interface
 
 
-![Air Paint Demo]<img width="1596" height="891" alt="Screenshot 2026-01-17 212514" src="https://github.com/user-attachments/assets/91e29d4d-a2db-43b2-9d0d-dead4473bd83" />
